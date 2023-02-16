@@ -1,5 +1,5 @@
 ---
-- hosts: ip-172-31-69-236.ec2.internal
+- hosts: ubuntu
   become: true
   tasks:
 
